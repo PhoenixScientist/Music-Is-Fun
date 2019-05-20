@@ -54,7 +54,7 @@ Styling is a hard area to grade so at a bare minimum you will need to show your 
 ### BONUS CHALLENGES 
 - Clicking on the title should play the 30 second preview 
 - The preview must play without opening a new browser window 
-- Clicking play on a title while another song is already playing will stop the previous song and start the new one
+- Clicking play on a title while another song is already playing will stop the previous song and start the new one 
 - When you search you will also get movies, try to filter those out
 
 ### Finished?

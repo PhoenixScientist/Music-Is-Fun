@@ -1,0 +1,28 @@
+header {
+  background-image: url('./pictures/592130-feathers-colorful-abstract.jpg');
+background-size: cover;
+height: 30vh;
+  color: white, #ffffff;
+  text-shadow: 1px .5px #000000b2; 
+}
+header h1 {
+  color: antiquewhite;
+}
+body {
+  background-color: blue;
+}
+
+.songbox {
+  background-color: #8f172738;
+  color: #8fdcff;
+border: 10px solid blue;
+padding: 2px;
+}
+.songbox h5 {
+    color: white;
+}
+
+.pryc {
+  color:  #8f1727;
+}
+
